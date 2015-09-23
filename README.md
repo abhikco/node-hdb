@@ -505,5 +505,5 @@ node examples/app1
 Todo
 ----
 * Improve documentation of the client api
-* Improve error handling
+* Improve error handling   
 * ...
